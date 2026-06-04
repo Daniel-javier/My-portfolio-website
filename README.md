@@ -1,2 +1,7 @@
 # My-portfolio-website
-A responsive, modern personal portfolio website built with semantic HTML5, CSS Variables, and Vanilla JavaScript. Features a persistent dark/light mode toggle and showcases my technical skills, software engineering projects, and academic background as a 3rd-year IT student.
+This project is a personal portfolio website designed from scratch to serve as a digital resume and project showcase. As a third-year undergraduate student approaching the industry, this platform acts as a central hub for recruiters and developers to explore my technical proficiencies, review my academic milestones, and interact with my featured software engineering projects. 
+
+### Core Features Monitored:
+* **Theme Persistence:** Remembers user preference (Light/Dark mode) across sessions using `localStorage`.
+* **Fluid Layouts:** Uses modern CSS Grid and Flexbox to eliminate broken layouts and maintain elegant alignment on any device screen.
+* **Accessible Typography:** Prioritizes readable, high-contrast typography and subtle, modern color accents (Indigo palette) instead of distracting, overly bright colors.
