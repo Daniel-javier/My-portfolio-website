@@ -7,8 +7,8 @@ This project is a personal portfolio website designed from scratch to serve as a
 * **Accessible Typography:** Prioritizes readable, high-contrast typography and subtle, modern color accents (Indigo palette) instead of distracting, overly bright colors.
 
 ### LINKS
-    http://127.0.0.1:5500/Final%20projectt/
-    https://github.com/Daniel-javier
+    https://daniel-javier.github.io/My-portfolio-website/
+   http://127.0.0.1:5500/Final%20projectt/index.html
 
 ### Technologies used
     HTML5: Semantic architecture
