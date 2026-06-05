@@ -8,6 +8,14 @@ This project is a personal portfolio website designed from scratch to serve as a
 
 ### LINKS
     http://127.0.0.1:5500/Final%20projectt/
+    https://github.com/Daniel-javier
+
+### Technologies used
+    HTML5: Semantic architecture
+    CSS3: Custom properties (Variables), Flexbox, Grid Layouts, and responsive Media Queries
+    JavaScript (ES6): Client-side interactivity and Persistent Dark Mode Toggle via LocalStorage
+    FontAwesome:** Scalable vector icons
+    
 ### Screenshots
 <img width="1296" height="680" alt="my final project" src="https://github.com/user-attachments/assets/7d929acb-6644-4826-b785-04eb63f64a13" />
 <img width="1293" height="627" alt="my final project 2" src="https://github.com/user-attachments/assets/881eb218-ab8b-404b-845f-b2801d3b4bea" />
@@ -16,4 +24,8 @@ This project is a personal portfolio website designed from scratch to serve as a
 <img width="1301" height="668" alt="my final project 5" src="https://github.com/user-attachments/assets/96420cd0-44b1-423c-bf0c-17ea80365c46" />
 <img width="1289" height="667" alt="my final project 4" src="https://github.com/user-attachments/assets/b7212b81-777d-4d30-8e67-673eaf6f044f" />
 
+### Key Featured
+    Responsive Design: Completely optimized across mobile viewports, tablets, and desktop displays.
+    Theme Switching: Persistent Dark/Light mode based on user system settings or custom toggle.
+    Clean Typographic Hierarchy: Structured for maximum visual scanning efficiency.
 
