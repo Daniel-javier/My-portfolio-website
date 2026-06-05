@@ -8,7 +8,7 @@ This project is a personal portfolio website designed from scratch to serve as a
 
 ### LINKS
     https://daniel-javier.github.io/My-portfolio-website/
-   http://127.0.0.1:5500/Final%20projectt/index.html
+      https://daniel-javier.github.io/My-portfolio-website/
 
 ### Technologies used
     HTML5: Semantic architecture
